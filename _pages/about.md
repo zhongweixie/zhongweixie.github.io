@@ -53,7 +53,7 @@ Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Pengwei Liu, Hujun Bao,
 
 # 💬 Miscellaneous
 - I maintain pictures on Instagram. Check them out.
-- I enjoy Badminton🥍 Hiking 🚶‍♀️ Football ⚽️
+- I enjoy Badminton🥍 Hiking 🚶‍♀️ Football ⚽️ in my free time.
 - I am a fan of TV show 📺! I like Friends, Game of Thrones, Shameless and a lot more...
 
  
