@@ -26,17 +26,18 @@ I am a final year undergraduate student in wuhan university, enrolled in Compute
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/spatialcrafter.gif' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**arXiv**] [SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations](https://arxiv.org/abs/2412.08412)  \\
+Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Pengwei Liu, Hujun Bao, Weiwei Xu, Changqing Zou. \\
+[[Project page]](https://franklinz233.github.io/)
+[[paper]](https://arxiv.org/abs/2412.08412)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- This paper presents a 3D scene reconstruction method from sparse inputs.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
@@ -51,7 +52,6 @@ I am a final year undergraduate student in wuhan university, enrolled in Compute
 - *2021.09 - Now*, Undergraduate, School of Computer Science, Wuhan University. 
 
 # 💬 Miscellaneous
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- I maintains pictures on Instagram. Check them out.
 
 <dl><a href="https://clustrmaps.com/site/1bxa7" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=3d-gAqSb6Wx-DoL_BIvviv0g9ivHnOPl9-3M98ywjqw&co=ffffff&ct=808080" /></a></dl>
