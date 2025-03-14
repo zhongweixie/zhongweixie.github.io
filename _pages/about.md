@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final year undergraduate student in wuhan university, enrolled in Computer Science Elite Class 2021. I am interested in enhancing the reasoning ability of AGI models and building efficient AI Agents for different scenarios.
+I am a final year undergraduate student in wuhan university, enrolled in Computer Science Elite Class 2021. I am interested in enhancing the reasoning ability of language models and building efficient AI Agents for different scenarios.
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 I start working together with [Dr. Luo Xiao](https://luoxiao12.github.io/) and [Dr. Chen Chong](https://chongc1990.github.io/) as a research intern. 
