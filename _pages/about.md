@@ -52,7 +52,7 @@ Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Pengwei Liu, Hujun Bao,
 - *2021.09 - Now*, Undergraduate, School of Computer Science, Wuhan University. 
 
 # 💬 Miscellaneous
-- I maintains pictures on Instagram. Check them out.
+- I maintain pictures on Instagram. Check them out.
 - I enjoy Badminton🥍 Hiking 🚶‍♀️ Football ⚽️
 - I am a fan of TV show 📺! I like Friends, Game of Thrones, Shameless and a lot more...
 
