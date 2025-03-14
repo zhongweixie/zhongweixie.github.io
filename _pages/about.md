@@ -56,4 +56,4 @@ Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Pengwei Liu, Hujun Bao,
 - I enjoy Badminton🥍 Hiking 🚶‍♀️ Football ⚽️ in my free time.
 - I am a fan of TV show 📺! I like Friends, Game of Thrones, Shameless and a lot more...
 
-<dl><a href='https://clustrmaps.com/site/1c4w6'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=500&t=n&d=aEvkweHPOk1_xBcbRXTix8uOtkOp9A2ydgxS9gu0AbI&co=ffffff&ct=808080'/></a></dl>
+<dl><a href='https://clustrmaps.com/site/1c4w6'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=aEvkweHPOk1_xBcbRXTix8uOtkOp9A2ydgxS9gu0AbI&co=ffffff&ct=808080'/></a></dl>
