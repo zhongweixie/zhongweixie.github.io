@@ -19,12 +19,10 @@ redirect_from:
 
 I am a final year undergraduate student in wuhan university, enrolled in Computer Science Elite Class 2021. I am interested in enhancing the reasoning ability of AGI models and building efficient AI Agents for different scenarios.
 
-I am an incoming MPhil student (25 Fall) at HKUST, supervised by Yangqiu Song.
-
-
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.03*: &nbsp;🎉🎉 I start working together with [Dr. Luo Xiao](https://luoxiao12.github.io/) and [Dr. Chen Chong](https://chongc1990.github.io/) as a research intern. 
+- *2025.03*: &nbsp;🎉🎉 I will join HKUST as a MPhil student (25 Fall), supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/).
+- *2025.03*: &nbsp;🚀 I build this website to share some news about me. 
 
 # 📝 Publications 
 
@@ -43,16 +41,17 @@ I am an incoming MPhil student (25 Fall) at HKUST, supervised by Yangqiu Song.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05* Second prize, ASC Student Supercomputer Challenge
+- *2024.06* National First Prize, CRAIC
+- *2023.11* Lei Jun Scholarship for Computer Science
+- *2023.07* National First Prize, CRAIC
+- *2023.06* 1st place(Championship), RoboCup China Open @Home
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - Now*, Undergraduate, School of Computer Science, Wuhan University. 
 
-# 💬 Invited Talks
+# 💬 Miscellaneous
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<dl><a href="https://clustrmaps.com/site/1bxa7" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=3d-gAqSb6Wx-DoL_BIvviv0g9ivHnOPl9-3M98ywjqw&co=ffffff&ct=808080" /></a></dl>
