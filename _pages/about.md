@@ -61,5 +61,6 @@ Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Pengwei Liu, Hujun Bao,
 - I refer to many open source posts when gathering information and making decisions, thanks to the community.
 - https://junweiliang.me/letter.html
 - https://ysymyth.github.io/The-Second-Half/
+- http://www.incompleteideas.net/IncIdeas/BitterLesson.html
 
 <dl><a href='https://clustrmaps.com/site/1c4w6'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=aEvkweHPOk1_xBcbRXTix8uOtkOp9A2ydgxS9gu0AbI&co=ffffff&ct=808080'/></a></dl>
