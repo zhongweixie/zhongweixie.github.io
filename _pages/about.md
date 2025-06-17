@@ -23,7 +23,7 @@ I am a final year undergraduate student in wuhan university, enrolled in Compute
 - *2025.06*: I'm going to graduate from Wuhan University. I will miss everything ...
 - *2025.05*: 1 manuscript is submitted to NIPS.
 - *2025.03*: I serve as a reviewer for ACL ARR 2025 February.
-- *2025.03*: &nbsp;🎉🎉 I start working together with [Dr. Luo Xiao](https://luoxiao12.github.io/) and [Dr. Chen Chong](https://chongc1990.github.io/) as a research intern. 
+- *2025.03*: &nbsp;🎉🎉 I start working together with [Dr. Xiao Luo](https://luoxiao12.github.io/) and [Dr. Chong Chen](https://chongc1990.github.io/) as a research intern. 
 - *2025.03*: &nbsp;🎉🎉 I will join HKUST as a MPhil student (25 Fall), supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/).
 - *2025.03*: &nbsp;🚀 I use new templete to build this website. 
 
