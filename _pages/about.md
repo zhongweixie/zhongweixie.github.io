@@ -29,7 +29,7 @@ I am a final year undergraduate student in wuhan university, enrolled in Compute
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/spatialcrafter.gif' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><img src='images/spatialcrafter.gif' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ICCV 2025**] [SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations](https://arxiv.org/abs/2505.11992)  \\
