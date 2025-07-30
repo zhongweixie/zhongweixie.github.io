@@ -32,10 +32,10 @@ I am a final year undergraduate student in wuhan university, enrolled in Compute
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/spatialcrafter.gif' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**arXiv**] [SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations](https://arxiv.org/abs/2412.08412)  \\
+[**ICCV 2025**] [SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations](https://arxiv.org/abs/2505.11992)  \\
 Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Pengwei Liu, Hujun Bao, Weiwei Xu, Changqing Zou. \\
-[[Project page]](https://franklinz233.github.io/)
-[[paper]](https://arxiv.org/abs/2412.08412)
+[[Project page]](https://franklinz233.github.io/projects/spatialcrafter/)
+[[paper]](https://arxiv.org/abs/2505.11992)
 
 - This paper presents a 3D scene reconstruction method from sparse inputs.
 
