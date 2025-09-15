@@ -55,7 +55,7 @@ Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Pengwei Liu, Hujun Bao,
 - *2021.09 - Now*, Undergraduate, School of Computer Science, Wuhan University. 
 
 # 💬 Miscellaneous
-- As a student, I contributed to the writing of a HK$1.1M research grant proposal, [GRF (RGC), Scaling Low-Bit Training for Efficient Large Model Deployment](https://www.ugc.edu.hk/doc/eng/rgc/result/grf/inst_25proj.pdf).
+- I contributed 50% to the writing of a HK$1.1M research grant proposal, [GRF (RGC), Scaling Low-Bit Training for Efficient Large Model Deployment](https://www.ugc.edu.hk/doc/eng/rgc/result/grf/inst_25proj.pdf).
 - I maintain pictures on Instagram. Check them out.
 - I enjoy Badminton🥍 Hiking 🚶‍♀️ Football ⚽️ in my free time.
 - I am a fan of TV show 📺! I like Friends, Game of Thrones, Shameless and a lot more...
