@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Zhongwei XIE, an Mphil student in HKUST-KnowComp supervised by Prof. Yangqiu Song. I get the bachelor's degree in Wuhan university in Computer Science Elite Class in June, 2025. I am interested in enhancing the reasoning ability of language models and building efficient AI training framework for different scenarios.
+Hello! I am Zhongwei XIE, an Mphil student in HKUST-KnowComp supervised by Prof. [Yangqiu Song](https://home.cse.ust.hk/~yqsong/). I get the bachelor's degree in Computer Science Elite Class from Wuhan university in June, 2025. I am interested in enhancing the reasoning ability of language models and building efficient AI training framework for different scenarios.
 
 # 🔥 News
 - *2026.01*: 1 manuscript is submitted to ACL ARR 2026 January.
@@ -55,7 +55,8 @@ Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Pengwei Liu, Hujun Bao,
 - *2023.06* 1st place(Championship), RoboCup China Open @Home
 
 # 📖 Educations
-- *2021.09 - Now*, Undergraduate, School of Computer Science, Wuhan University. 
+- *2025.09 - Now*, Mphil, School of Computer Science, HKUST. 
+- *2021.09 - 2025.06*, Undergraduate, School of Computer Science, Wuhan University. 
 
 # 💬 Miscellaneous
 - I contributed 50% to the writing of a HK$1.1M research grant proposal, [GRF (RGC), Scaling Low-Bit Training for Efficient Large Model Deployment](https://www.ugc.edu.hk/doc/eng/rgc/result/grf/inst_25proj.pdf).
