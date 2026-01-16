@@ -17,9 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final year undergraduate student in wuhan university, enrolled in Computer Science Elite Class 2021. I am interested in enhancing the reasoning ability of language models and building efficient AI Agents for different scenarios.
+Hello! I am Zhongwei XIE, an Mphil student in HKUST-KnowComp supervised by Prof. Yangqiu Song. I get the bachelor's degree in Wuhan university in Computer Science Elite Class in June, 2025. I am interested in enhancing the reasoning ability of language models and building efficient AI training framework for different scenarios.
 
 # 🔥 News
+- *2026.01*: 1 manuscript is submitted to ACL ARR 2026 January.
+- *2025.11*: I have attended EMNLP 2025 in Nov 2025, Suzhou, China. Thanks for the support by Prof. Yangqiu Song.
+- *2025.09*: I start my Mphil journey in HKUST-KnowComp supervised by Prof. Yangqiu Song.
 - *2025.06*: I'm going to graduate from Wuhan University. I will miss everything ...
 - *2025.05*: 1 manuscript is submitted to NIPS.
 - *2025.03*: I serve as a reviewer for ACL ARR 2025 February.
