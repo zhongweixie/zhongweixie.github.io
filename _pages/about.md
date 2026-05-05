@@ -20,7 +20,7 @@ redirect_from:
 Hello! I am Zhongwei XIE, an Mphil student in HKUST-KnowComp supervised by Prof. [Yangqiu Song](https://home.cse.ust.hk/~yqsong/). I get the bachelor's degree in Computer Science Elite Class from Wuhan university in June, 2025. I am interested in enhancing the reasoning ability of language models and building efficient AI training framework for different scenarios.
 
 # 🔥 News
-- *2026.01*: 1 manuscript is submitted to ACL ARR 2026 January.
+- *2026.04*: 1 first author manuscript is accept by ACL Findings 2026 (Topic: Data Selection For LLM Post Training).
 - *2025.11*: I have attended EMNLP 2025 in Nov 2025, Suzhou, China. Thanks for the support by Prof. Yangqiu Song.
 - *2025.09*: I start my Mphil journey in HKUST-KnowComp supervised by Prof. Yangqiu Song.
 - *2025.06*: I'm going to graduate from Wuhan University. I will miss everything ...
