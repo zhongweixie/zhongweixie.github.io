@@ -33,20 +33,18 @@ Hello! I am Zhongwei XIE, an Mphil student in HKUST CSE Department. I am so fort
 
 **[Preprint]** [A Survey on AI Agent Harness] <br>
 **Zhongwei Xie**, Xiyu Ren, Tianshi Zheng, Jiaxin Bai, Wei Fan, Baixuan Xu, Haoran Li, Huihao Jing, Yangqiu Song <br>
-[[paper]](https://github.com/HKUST-KnowComp/Awesome-Agent-Harness/blob/main/Agent_Harness_Survey.pdf]
+[[paper]](https://github.com/HKUST-KnowComp/Awesome-Agent-Harness/blob/main/Agent_Harness_Survey.pdf)
 
 **[Preprint]** [NGDB-Zoo: Towards Efficient and Scalable Neural Graph Databases Training] <br>
 **Zhongwei Xie**, Jiaxin Bai, Shujie LIU, Haoyu Huang, LI Yufei, Yisen Gao, Hong Ting Tsang, Yangqiu Song <br>
-[[paper]](https://arxiv.org/pdf/2602.21597)
+[[paper]](https://arxiv.org/abs/2602.21597)
 
 **[Findings of ACL 2026]** [GALA: Geometric Data Selection with Strategic Prospecting for Large Language Model Self-training] <br>
 **Zhongwei Xie**, Ruihao Liao, Zimo Wang, Chong Chen, Xian-Sheng Hua, Xiao Luo. <br>
 
-**[ICCV 2025]** [SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations](https://arxiv.org/abs/2505.11992) <br>
+**[ICCV 2025]** [SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations] <br>
 Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Pengwei Liu, Hujun Bao, Weiwei Xu, Changqing Zou. <br>
 [[paper]](https://arxiv.org/abs/2505.11992)
-
-- This paper presents a 3D scene reconstruction method from sparse inputs.
 
 <!-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
