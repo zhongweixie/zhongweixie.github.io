@@ -31,7 +31,7 @@ Hello! I am Zhongwei XIE, an Mphil student in HKUST CSE Department. I am so fort
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><img src='images/spatialcrafter.gif' alt="sym" width="90%"></div></div>
+<div class='paper-box'>ICCV</div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ICCV 2025**] [SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations](https://arxiv.org/abs/2505.11992)  \\
