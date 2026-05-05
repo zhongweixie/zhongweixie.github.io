@@ -29,20 +29,13 @@ Hello! I am Zhongwei XIE, an Mphil student in HKUST CSE Department. I am so fort
 - *2025.03*: &nbsp;🎉🎉 I will join HKUST as a MPhil student (25 Fall), supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/).
 - *2025.03*: &nbsp;🚀 I use new templete to build this website. 
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'>ICCV</div></div>
-<div class='paper-box-text' markdown="1">
-
-[**ICCV 2025**] [SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations](https://arxiv.org/abs/2505.11992)  \\
-Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Pengwei Liu, Hujun Bao, Weiwei Xu, Changqing Zou. \\
-[[Project page]](https://franklinz233.github.io/projects/spatialcrafter/)
+**[ICCV 2025]** [SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations](https://arxiv.org/abs/2505.11992) <br>
+Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Pengwei Liu, Hujun Bao, Weiwei Xu, Changqing Zou. <br>
 [[paper]](https://arxiv.org/abs/2505.11992)
 
 - This paper presents a 3D scene reconstruction method from sparse inputs.
-
-</div>
-</div> 
 
 <!-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
