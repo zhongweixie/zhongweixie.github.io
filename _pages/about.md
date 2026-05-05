@@ -26,7 +26,7 @@ Hello! I am Zhongwei XIE, an Mphil student in HKUST CSE Department. I am so fort
 - *2025.05*: 1 manuscript is submitted to NIPS.
 - *2025.03*: I serve as a reviewer for ACL ARR.
 - *2025.03*: &nbsp;🎉🎉 I start working together with [Prof. Xiao Luo](https://luoxiao12.github.io/) and [Dr. Chong Chen](https://chongc1990.github.io/) as a research intern. 
-- *2025.03*: &nbsp;🎉🎉 I will join HKUST as a MPhil student (25 Fall), supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/).
+- *2025.01*: &nbsp;🎉🎉 I will join HKUST as a MPhil student (25 Fall), supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/).
 
 # 📝 Publications
 
