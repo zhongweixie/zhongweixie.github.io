@@ -17,15 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Zhongwei XIE, an Mphil student in HKUST-KnowComp supervised by Prof. [Yangqiu Song](https://home.cse.ust.hk/~yqsong/). I get the bachelor's degree in Computer Science Elite Class from Wuhan university in June, 2025. I am interested in enhancing the reasoning ability of language models and building efficient AI training framework for different scenarios.
-
+Hello! I am Zhongwei XIE, an Mphil student in HKUST CSE Department. I am so fortune to be supervised by Prof. [Yangqiu Song](https://home.cse.ust.hk/~yqsong/). I get the bachelor's degree in Computer Science Elite Class from Wuhan university in June, 2025. I am interested in enhancing the reasoning ability of language models and building efficient AI training framework for different scenarios. During my previous research journey, I am so lucky to work with [Prof. Jiaxin Bai](https://bjx.fun/), [Prof. Wenhai Li](https://cs.whu.edu.cn/info/1019/2443.htm), [Prof. Xiao Luo](https://luoxiao12.github.io/), [Dr. Jingru Yang](https://utns.cs.utexas.edu/), [Dr. Chong Chen](https://chongc1990.github.io/), [Prof. Aditya Akella](https://www.cs.utexas.edu/~akella/) and [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/).
 # 🔥 News
 - *2026.04*: 1 first author manuscript is accept by ACL Findings 2026 (Topic: Data Selection For LLM Post Training).
 - *2025.11*: I have attended EMNLP 2025 in Nov 2025, Suzhou, China. Thanks for the support by Prof. Yangqiu Song.
 - *2025.09*: I start my Mphil journey in HKUST-KnowComp supervised by Prof. Yangqiu Song.
-- *2025.06*: I'm going to graduate from Wuhan University. I will miss everything ...
+- *2025.06*: I graduated from Wuhan University. I will miss everything ...
 - *2025.05*: 1 manuscript is submitted to NIPS.
-- *2025.03*: I serve as a reviewer for ACL ARR 2025 February.
+- *2025.03*: I serve as a reviewer for ACL ARR.
 - *2025.03*: &nbsp;🎉🎉 I start working together with [Prof. Xiao Luo](https://luoxiao12.github.io/) and [Dr. Chong Chen](https://chongc1990.github.io/) as a research intern. 
 - *2025.03*: &nbsp;🎉🎉 I will join HKUST as a MPhil student (25 Fall), supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/).
 - *2025.03*: &nbsp;🚀 I use new templete to build this website. 
