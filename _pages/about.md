@@ -19,6 +19,7 @@ redirect_from:
 
 Hello! I am Zhongwei XIE, an Mphil student in HKUST CSE Department. I am so fortune to be supervised by Prof. [Yangqiu Song](https://home.cse.ust.hk/~yqsong/). I get the bachelor's degree in Computer Science Elite Class from Wuhan university in June, 2025. I am interested in enhancing the agentic and reasoning ability of language models and building efficient AI training framework for different scenarios. During my previous research journey, I am so lucky to work closely with [Prof. Jiaxin Bai](https://bjx.fun/) from HKBU, [Prof. Wenhai Li](https://cs.whu.edu.cn/info/1019/2443.htm) from Wuhan University, [Prof. Xiao Luo](https://luoxiao12.github.io/) from UW–Madison and [Dr. Jingru Yang](https://scholar.google.com/citations?user=fsqMskAAAAAJ&hl=en&oi=ao) from Carnegie Mellon University.
 # 🔥 News
+- *2026.06*: I serve as virtual session chair at ACL 2026 (Topic: Multimodality and Language Grounding to Vision, Robotics and Beyond).
 - *2026.04*: 1 manuscript is accept by ACL Findings 2026 (Topic: Data Selection For LLM Post Training/Self Evolving).
 - *2025.11*: I attended EMNLP 2025 in Nov 2025, Suzhou, China. Thanks for the support by Prof. Yangqiu Song.
 - *2025.09*: I start my Mphil journey in HKUST-KnowComp supervised by Prof. Yangqiu Song.
