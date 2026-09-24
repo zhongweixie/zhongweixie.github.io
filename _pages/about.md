@@ -37,7 +37,7 @@ Hello! I am Zhongwei XIE, an Mphil student in HKUST CSE Department. I am so fort
 
 **NGDB-Zoo: Towards Efficient and Scalable Neural Graph Databases Training** <br>
 **Zhongwei Xie**, Jiaxin Bai, Shujie LIU, Haoyu Huang, LI Yufei, Yisen Gao, Hong Ting Tsang, Yangqiu Song <br>
-*Preprint* &nbsp; [[paper]](https://arxiv.org/abs/2602.21597)
+*NIPS 2026* &nbsp; [[paper]](https://arxiv.org/abs/2602.21597)
 
 **GALA: Geometric Data Selection with Strategic Prospecting for Large Language Model Self-training** <br>
 **Zhongwei Xie**, Ruihao Liao, Zimo Wang, Chong Chen, Xian-Sheng Hua, Xiao Luo. <br>
