@@ -50,10 +50,10 @@ Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Pengwei Liu, Hujun Bao,
 <!-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2024.06* National First Prize, CRAIC
+- *2024.06* National First Prize, China Robot and Artificial Intelligence Competition
 - *2024.05* Second prize, ASC Student Supercomputer Challenge
 - *2023.11* Lei Jun Scholarship for Computer Science
-- *2023.07* National First Prize, CRAIC
+- *2023.07* National First Prize, China Robot and Artificial Intelligence Competition
 - *2023.06* 1st place(Championship), RoboCup China Open @Home
 
 # 📖 Educations
