@@ -54,7 +54,7 @@ Hello! I am Zhongwei XIE, an MPhil student in HKUST. I am so fortune to be super
 
 # 🎖 Honors and Awards
 - *2026.10* Invited Talk at Nice (Nexus for IntelligenCE) 
-- *2026.07* Research Travel Grant to ACL  \\
+- *2026.07* Research Travel Grant to ACL  
 - *2024.06* National First Prize, China Robot and Artificial Intelligence Competition
 - *2024.05* Second prize, ASC Student Supercomputer Challenge
 - *2023.11* Lei Jun Scholarship for Computer Science
