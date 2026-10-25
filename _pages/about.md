@@ -56,7 +56,7 @@ Haoyu Huang, **Zhongwei Xie**, Jiaxin Bai, Yisen Gao, Hong Ting Tsang, Wuganjing
 
 **MEMLENS: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models** <br>
 Xiyu Ren, Zhaowei Wang, Yiming Du, **Zhongwei Xie**, Chi Liu, Xinlin Yang, Haoyue Feng, Wenjun Pan, Tianshi Zheng, Baixuan Xu, Zhengnan Li, Yangqiu Song, Ginny Wong, Simon See <br>
-*Preprint, 2026; Under review.* [[paper]](https://arxiv.org/abs/2605.14906) 
+*Preprint, 2026.* [[paper]](https://arxiv.org/abs/2605.14906) 
 
 **SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations** <br>
 Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Pengwei Liu, Hujun Bao, Weiwei Xu, Changqing Zou. <br>
