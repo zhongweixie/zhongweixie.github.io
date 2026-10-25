@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Zhongwei XIE, an Mphil student in HKUST CSE Department. I am so fortune to be supervised by Prof. [Yangqiu Song](https://home.cse.ust.hk/~yqsong/). I get the bachelor's degree in Computer Science Elite Class from Wuhan university in June, 2025. I am interested in enhancing the agentic and reasoning ability of language models and building efficient AI training framework for different scenarios. During my previous research journey, I am so lucky to work closely with [Prof. Jiaxin Bai](https://bjx.fun/) from HKBU, [Prof. Wenhai Li](https://cs.whu.edu.cn/info/1019/2443.htm) from Wuhan University, [Prof. Xiao Luo](https://luoxiao12.github.io/) from UW–Madison and [Dr. Jingru Yang](https://scholar.google.com/citations?user=fsqMskAAAAAJ&hl=en&oi=ao) from Carnegie Mellon University.
+Hello! I am Zhongwei XIE, an phd student in HKUST. I am so fortune to be supervised by Prof. [Yangqiu Song](https://home.cse.ust.hk/~yqsong/). I get the bachelor's degree in Computer Science Elite Class from Wuhan university in June, 2025. I am interested in enhancing the agentic and reasoning ability of language models and building efficient AI training framework for different scenarios. During my previous research journey, I am so lucky to work closely with [Prof. Jiaxin Bai](https://bjx.fun/) from HKBU, [Prof. Wenhai Li](https://cs.whu.edu.cn/info/1019/2443.htm) from Wuhan University, [Prof. Xiao Luo](https://luoxiao12.github.io/) from UW–Madison and [Dr. Jingru Yang](https://scholar.google.com/citations?user=fsqMskAAAAAJ&hl=en&oi=ao) from Carnegie Mellon University.
 # 🔥 News
 - *2026.06*: I serve as session chair at ACL 2026.
 - *2026.04*: 1 manuscript is accept by ACL Findings 2026 (Topic: Data Selection For LLM Post Training/Self Evolving).
@@ -50,9 +50,33 @@ Hello! I am Zhongwei XIE, an Mphil student in HKUST CSE Department. I am so fort
 **Zhongwei Xie**, Ruihao Liao, Zimo Wang, Chong Chen, Xian-Sheng Hua, Xiao Luo. <br>
 *Findings of ACL 2026 [[paper]](https://aclanthology.org/2026.findings-acl.500.pdf)*
 
+**Towards In-Parameter Memory Augmentation for Large Language Models** <br>
+Haoyu Huang, **Zhongwei Xie**, Jiaxin Bai, Yisen Gao, Hong Ting Tsang, Wuganjing Song, Huihao Jing, Yufei Li, Yangqiu Song <br>
+*Preprint, 2026.* [[paper]](https://arxiv.org/pdf/2610.08630)
+
+**MEMLENS: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models** <br>
+Xiyu Ren, Zhaowei Wang, Yiming Du, **Zhongwei Xie**, Chi Liu, Xinlin Yang, Haoyue Feng, Wenjun Pan, Tianshi Zheng, Baixuan Xu, Zhengnan Li, Yangqiu Song, Ginny Wong, Simon See <br>
+*Preprint, 2026; Under review.* [[paper]](https://arxiv.org/abs/2605.14906) 
+
+**Quantization Meets Reasoning: Exploring LLM Low-Bit Quantization Degradation for Mathematical Reasoning** <br>
+Zhen Li, Yupeng Su, Runming Yang, **Zhongwei Xie**, Ngai Wong, Hongxia Yang <br>
+*arXiv, 2025.* [[paper]](https://arxiv.org/abs/2501.03035v1)
+
 **SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations** <br>
 Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Pengwei Liu, Hujun Bao, Weiwei Xu, Changqing Zou. <br>
 *ICCV 2025* &nbsp; [[paper]](https://arxiv.org/abs/2505.11992)
+
+**SKILLREVISE: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision** <br>
+Yuxuan Liu, Zhaochen Su, Lingyun Xie, Yuhao Zhang, Qing Zong, Jiahe Guo, **Zhongwei Xie**, Yiyan Ji, Yauwai Yim, Hongyu Luo, Xiyu Ren, Ruan Chenyu, Haoran Li, Yangqiu Song <br>
+*Findings of EMNLP 2026.* [[paper]](https://arxiv.org/pdf/2606.01139)
+
+**KGPFN: Unlocking the Potential of Knowledge Graph Foundation Model via In-Context Learning** <br>
+Yisen Gao, Jiaxin Bai, Haoyu Huang, **Zhongwei Xie**, Yufei Li, Hong Ting Tsang, Sirui Han, Yangqiu Song <br>
+*Preprint, 2026.* [[paper]](https://arxiv.org/pdf/2605.14907) [[code]](https://github.com/HKUST-KnowComp/KGPFN)
+
+**SoFT: Soft Targets for Generalizable LLM Fine-Tuning** <br>
+Huihao Jing, Wenbin Hu, Shaojin Chen, Haochen Shi, **Zhongwei Xie**, Guijia Zhang, Yuxuan Liu, Haoyu Huang, Haoran Li, Yangqiu Song <br>
+*Preprint, 2026.* [[paper]](https://arxiv.org/pdf/2609.32493)
 
 <!-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
@@ -81,5 +105,6 @@ Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Pengwei Liu, Hujun Bao,
 - https://ysymyth.github.io/The-Second-Half/
 - http://www.incompleteideas.net/IncIdeas/BitterLesson.html
 - https://gwern.net/doc/psychiatry/depression/2024-hill.pdf 
+
 
 <dl><a href='https://clustrmaps.com/site/1c4w6'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=aEvkweHPOk1_xBcbRXTix8uOtkOp9A2ydgxS9gu0AbI&co=ffffff&ct=808080'/></a></dl>
