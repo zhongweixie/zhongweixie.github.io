@@ -30,6 +30,13 @@ Hello! I am Zhongwei XIE, an Mphil student in HKUST CSE Department. I am so fort
 - *2025.01*: &nbsp;🎉🎉 I will join HKUST as a MPhil student (25 Fall), supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/).
 
 # 📝 Publications
+**CoworkEnv:  Synthesizing Training Environments for Long-Horizon Cowork Agents** <br>
+**Zhongwei Xie**, Yiming Du, Jiaxin Bai, Baixuan Xu, Chunyang Li, Xiyu REN, Wei Fan, Tianshi Zheng, Weizhi Du, Jingqiao Yu, Xingsu Li, Zhaowei Wang, Yangqiu Song  <br>
+*Preprint*. HF daily paper \#10&nbsp; [[paper]](https://arxiv.org/pdf/2610.24960)
+
+**JockeyBench: Evaluating LLM Agents on Horse-Racing Decision-Making** <br>
+**Zhongwei Xie**, Xingsu Li, Jingqiao Yu, Zihao Wang, Hong ChiTat, Zhaowei Wang, Weizhi Du, Yuxuan Liu, Huihao JING, Jiaxin Bai, Yangqiu Song  <br>
+*Preprint* &nbsp; [[paper]](https://arxiv.org/pdf/2610.19589v1)
 
 **A Survey on AI Agent Harness** <br>
 **Zhongwei Xie**, Xiyu Ren, Tianshi Zheng, Jiaxin Bai, Wei Fan, Baixuan Xu, Haoran Li, Huihao Jing, Yangqiu Song <br>
@@ -50,6 +57,8 @@ Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Pengwei Liu, Hujun Bao,
 <!-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2026.10* Invited Talk at Nice (Nexus for IntelligenCE) 
+- *2026.07* Research Travel Grant to ACL  \\
 - *2024.06* National First Prize, China Robot and Artificial Intelligence Competition
 - *2024.05* Second prize, ASC Student Supercomputer Challenge
 - *2023.11* Lei Jun Scholarship for Computer Science
