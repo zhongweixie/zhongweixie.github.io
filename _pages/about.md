@@ -35,8 +35,8 @@ Hello! I am Zhongwei XIE, an Mphil student in HKUST CSE Department. I am so fort
 *Preprint*. HF daily paper \#10&nbsp; [[paper]](https://arxiv.org/pdf/2610.24960)
 
 **JockeyBench: Evaluating LLM Agents on Horse-Racing Decision-Making** <br>
-**Zhongwei Xie**, Xingsu Li, Jingqiao Yu, Zihao Wang, Hong ChiTat, Zhaowei Wang, Weizhi Du, Yuxuan Liu, Huihao JING, Jiaxin Bai, Yangqiu Song  <br>
-*Preprint* &nbsp; [[paper]](https://arxiv.org/pdf/2610.19589v1)
+**Zhongwei Xie**, Xingsu Li*, Jingqiao Yu*, Zihao Wang, Hong ChiTat, Zhaowei Wang, Weizhi Du, Yuxuan Liu, Huihao JING, Jiaxin Bai, Yangqiu Song  <br>
+*Preprint* &nbsp; * Means equal contribution [[paper]](https://arxiv.org/pdf/2610.19589v1)
 
 **A Survey on AI Agent Harness** <br>
 **Zhongwei Xie**, Xiyu Ren, Tianshi Zheng, Jiaxin Bai, Wei Fan, Baixuan Xu, Haoran Li, Huihao Jing, Yangqiu Song <br>
@@ -48,7 +48,7 @@ Hello! I am Zhongwei XIE, an Mphil student in HKUST CSE Department. I am so fort
 
 **GALA: Geometric Data Selection with Strategic Prospecting for Large Language Model Self-training** <br>
 **Zhongwei Xie**, Ruihao Liao, Zimo Wang, Chong Chen, Xian-Sheng Hua, Xiao Luo. <br>
-*Findings of ACL 2026*
+*Findings of ACL 2026 [[paper]](https://aclanthology.org/2026.findings-acl.500.pdf)*
 
 **SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations** <br>
 Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Pengwei Liu, Hujun Bao, Weiwei Xu, Changqing Zou. <br>
