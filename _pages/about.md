@@ -35,7 +35,7 @@ Hello! I am Zhongwei XIE, an Mphil student in HKUST CSE Department. I am so fort
 *Preprint*. HF daily paper \#10&nbsp; [[paper]](https://arxiv.org/pdf/2610.24960)
 
 **JockeyBench: Evaluating LLM Agents on Horse-Racing Decision-Making** <br>
-**Zhongwei Xie**, Xingsu Li*, Jingqiao Yu*, Zihao Wang, Hong ChiTat, Zhaowei Wang, Weizhi Du, Yuxuan Liu, Huihao JING, Jiaxin Bai, Yangqiu Song  <br>
+**Zhongwei Xie\***, Xingsu Li\*, Jingqiao Yu\*, Zihao Wang, Hong ChiTat, Zhaowei Wang, Weizhi Du, Yuxuan Liu, Huihao JING, Jiaxin Bai, Yangqiu Song  <br>
 *Preprint* &nbsp; * Means equal contribution [[paper]](https://arxiv.org/pdf/2610.19589v1)
 
 **A Survey on AI Agent Harness** <br>
