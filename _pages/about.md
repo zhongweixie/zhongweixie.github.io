@@ -58,10 +58,6 @@ Haoyu Huang, **Zhongwei Xie**, Jiaxin Bai, Yisen Gao, Hong Ting Tsang, Wuganjing
 Xiyu Ren, Zhaowei Wang, Yiming Du, **Zhongwei Xie**, Chi Liu, Xinlin Yang, Haoyue Feng, Wenjun Pan, Tianshi Zheng, Baixuan Xu, Zhengnan Li, Yangqiu Song, Ginny Wong, Simon See <br>
 *Preprint, 2026; Under review.* [[paper]](https://arxiv.org/abs/2605.14906) 
 
-**Quantization Meets Reasoning: Exploring LLM Low-Bit Quantization Degradation for Mathematical Reasoning** <br>
-Zhen Li, Yupeng Su, Runming Yang, **Zhongwei Xie**, Ngai Wong, Hongxia Yang <br>
-*arXiv, 2025.* [[paper]](https://arxiv.org/abs/2501.03035v1)
-
 **SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations** <br>
 Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Pengwei Liu, Hujun Bao, Weiwei Xu, Changqing Zou. <br>
 *ICCV 2025* &nbsp; [[paper]](https://arxiv.org/abs/2505.11992)
@@ -69,14 +65,6 @@ Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Pengwei Liu, Hujun Bao,
 **SKILLREVISE: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision** <br>
 Yuxuan Liu, Zhaochen Su, Lingyun Xie, Yuhao Zhang, Qing Zong, Jiahe Guo, **Zhongwei Xie**, Yiyan Ji, Yauwai Yim, Hongyu Luo, Xiyu Ren, Ruan Chenyu, Haoran Li, Yangqiu Song <br>
 *Findings of EMNLP 2026.* [[paper]](https://arxiv.org/pdf/2606.01139)
-
-**KGPFN: Unlocking the Potential of Knowledge Graph Foundation Model via In-Context Learning** <br>
-Yisen Gao, Jiaxin Bai, Haoyu Huang, **Zhongwei Xie**, Yufei Li, Hong Ting Tsang, Sirui Han, Yangqiu Song <br>
-*Preprint, 2026.* [[paper]](https://arxiv.org/pdf/2605.14907) [[code]](https://github.com/HKUST-KnowComp/KGPFN)
-
-**SoFT: Soft Targets for Generalizable LLM Fine-Tuning** <br>
-Huihao Jing, Wenbin Hu, Shaojin Chen, Haochen Shi, **Zhongwei Xie**, Guijia Zhang, Yuxuan Liu, Haoyu Huang, Haoran Li, Yangqiu Song <br>
-*Preprint, 2026.* [[paper]](https://arxiv.org/pdf/2609.32493)
 
 <!-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
