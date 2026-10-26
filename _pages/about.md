@@ -50,6 +50,10 @@ Hello! I am Zhongwei XIE, an MPhil student in HKUST. I am so fortune to be super
 **Zhongwei Xie**, Ruihao Liao, Zimo Wang, Chong Chen, Xian-Sheng Hua, Xiao Luo. <br>
 *Findings of ACL 2026 [[paper]](https://aclanthology.org/2026.findings-acl.500.pdf)*
 
+**SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations** <br>
+Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Hujun Bao, Weiwei Xu, Changqing Zou <br>
+*ICCV 2025.* [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_SpatialCrafter_Unleashing_the_Imagination_of_Video_Diffusion_Models_for_Scene_ICCV_2025_paper.pdf)
+
 <!-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
