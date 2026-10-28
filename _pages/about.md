@@ -57,7 +57,7 @@ Songchun Zhang, Huiyao Xu, Sitong Guo, **Zhongwei Xie**, Hujun Bao, Weiwei Xu, C
 <!-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2026.10* Invited Talk at Nice (Nexus for IntelligenCE) 
+- *2026.10* Invited Talk at Nice (Nexus for IntelligenCE) / Qingke AI / Huawei Hong Kong
 - *2026.07* Research Travel Grant to ACL  
 - *2024.06* National First Prize, China Robot and Artificial Intelligence Competition
 - *2024.05* Second prize, ASC Student Supercomputer Challenge
